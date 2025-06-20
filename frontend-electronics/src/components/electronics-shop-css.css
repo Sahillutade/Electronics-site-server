@@ -1,0 +1,36 @@
+.all-pro{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+.all-pro-heading{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.all-pro-list{
+    width: 900px;
+    height: 1020px;
+}
+.all-pro-txt{
+    border-bottom: 1px solid #7e8285;
+    padding-bottom: 10px;
+    font-size: 17px;
+    font-weight: 700;
+}
+.all-pro-listing{
+    padding-left: 10px;
+}
+.sin-pro{
+    width: 175px;
+    margin-top: 10px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.sin-pro-img{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.sin-pro-detail{
+    text-align: center;
+}
